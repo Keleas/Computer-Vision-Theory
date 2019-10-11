@@ -1,2 +1,5 @@
 # Computer-Vision-Theory
-A selection of theories and descriptions of classical computer vision algorithms and methods based on deep learning.
+
+В этом репозитории описаны основыне моменты теории компьютерного зрения. Материалы разделены на классику и современные подходы, основанные на методах машинного обучения.
+
+Все материалы несут ознакомительный характер.
