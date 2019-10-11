@@ -146,6 +146,9 @@ placeholder
 
 #### [Курс Олимпиадных школ МФТИ](https://github.com/ml-dafe/cv_mipt_olymp_school)
 
+#### [Серия видео «Python Plays: Grand Theft Auto V» от sentdex 1](https://vk.com/proglib/computer_vision?w=wall-54530371_119956)
+
+Серия уроков, автоматическое управление в GTA V по видеопотоку на opencv.
 
 
 # Usefull Tools <a class="anchor" id="tools"></a>
