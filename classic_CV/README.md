@@ -22,6 +22,8 @@
 
 #### [Пару слов о распознавании образов](https://habr.com/ru/post/208090/)
 
+#### [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
 
 # 2. Работа с цветами <a class="anchor" id="colors"></a>
 
@@ -71,6 +73,8 @@
 
 #### [Детекторы углов](https://habr.com/ru/post/244541/)
 
+#### [A single scale retinex based method for palm vein extraction](https://arxiv.org/abs/1605.08154)
+
 
 # 4. Object detection <a class="anchor" id="detection"></a>
 
@@ -106,6 +110,14 @@ placeholder
 #### [Tracking object orientation with image moments](http://raphael.candelier.fr/?blog=Image%20Moments)
 
 
+# 7. Processing 
+
+#### [Основы пространственной и частотной обработки изображений](https://habr.com/ru/company/yandex/blog/254249/)
+
+
+#### [Преобразование Фурье. Линейная фильтрация в частотной области](http://wiki.technicalvision.ru/index.php/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A4%D1%83%D1%80%D1%8C%D0%B5._%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
+
+
 
 # Лекции <a class="anchor" id="lectures"></a>
 
@@ -132,11 +144,16 @@ placeholder
 Для этого авторами подготовлены подробные текстовые описания не только лекционной части, но и лабораторных работ, иллюстрирующих применение библиотек OpenCV и IPP для решения задач компьютерного зрения. Материалы лабораторного практикума включают коды программ, процесс пошаговой разработки которых описан в методических указаниях.
 
 
+#### [Курс Олимпиадных школ МФТИ](https://github.com/ml-dafe/cv_mipt_olymp_school)
+
+
 
 # Usefull Tools <a class="anchor" id="tools"></a>
 
 #### [OpenCV Python documentation](https://docs.opencv.org/3.0-beta/index.html)
 
 #### [Image manipulation and processing using Numpy and Scipy](http://scipy-lectures.org/advanced/image_processing/)
+
+#### [Tutorials: Image processing algorithms](http://aishack.in/tutorials/)
 
 
