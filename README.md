@@ -13,3 +13,8 @@
 * [Classic CV](https://github.com/Keleas/Computer-Vision-Theory/blob/master/classic_cv.md)
 * [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 * [Deep Learning](https://github.com/Keleas/Computer-Vision-Theory/blob/master/dl.md)
+
+* По проектам [НИР]:
+	* [Распознавание по дальностым портретам]()
+	* [Wafer Maps]()
+	* [ИПМТ]()

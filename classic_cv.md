@@ -1,8 +1,6 @@
 # Классика CV
 
-Оригиналы статей и книг находятся в разделе ```classic_papers``` на [гугл диске](https://drive.google.com/drive/u/1/folders/1KuU9N9RAQjvAJnYnVIWo1lSk8Nejttjc).
-
-## Содержание
+#### Содержание
 * [Введение в CV](#overview)
 * [Работа с цветами](#colors)
 * [Features](#features)
@@ -11,8 +9,6 @@
 * [Object Tracking](#tracking)
 * [Лекции](#lectures)
 * [Usefull Tools](#tools)
-
-
 
 # 1. Введение в CV <a class="anchor" id="overview"></a>
 
