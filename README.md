@@ -6,8 +6,6 @@
 
 Подборка постоянно пополняется.
 
-----------------------------------------------------
-
 ### Оглавление
 
 * [Classic CV](https://github.com/Keleas/Computer-Vision-Theory/blob/master/classic_cv.md)
