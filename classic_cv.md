@@ -1,4 +1,4 @@
-# Классика CV
+# Классика Computer Vision
 
 #### Содержание
 * [Введение в CV](#overview)
@@ -10,7 +10,7 @@
 * [Лекции](#lectures)
 * [Usefull Tools](#tools)
 
-# 1. Введение в CV <a class="anchor" id="overview"></a>
+### 1. Введение в CV <a class="anchor" id="overview"></a>
 
 Базовые понятия, идеи и задачи, которые решает компьютерное зрение, отражены в следующихх постах.
 
@@ -21,7 +21,7 @@
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 
-# 2. Работа с цветами <a class="anchor" id="colors"></a>
+### 2. Работа с цветами <a class="anchor" id="colors"></a>
 
 * [Changing the contrast and brightness of an image](https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html)
 
@@ -35,7 +35,7 @@
 
 
 
-# 3. Features <a class="anchor" id="features"></a>
+### 3. Features <a class="anchor" id="features"></a>
 
 * [Алгоритмы выделения контуров изображений](https://habr.com/ru/post/114452/)
 
@@ -72,7 +72,7 @@
 * [A single scale retinex based method for palm vein extraction](https://arxiv.org/abs/1605.08154)
 
 
-# 4. Object detection <a class="anchor" id="detection"></a>
+### 4. Object detection <a class="anchor" id="detection"></a>
 
 * [Пару слов о распознавании образов](https://habr.com/ru/post/208090/)
 
@@ -83,7 +83,7 @@
 * [OpenCV shape detection](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
 
 
-# 5. Denoising <a class="anchor" id="denoising"></a>
+### 5. Denoising <a class="anchor" id="denoising"></a>
 
 * [Восстановление смазанных и расфокусированных изображений с помощью фильтра Винера.](https://habr.com/ru/post/424987/)
 
@@ -93,7 +93,7 @@
 * [Бинаризация изображений: алгоритм Брэдли](https://habr.com/ru/post/278435/)
 
 
-# 6. Object Tracking <a class="anchor" id="tracking"></a>
+### 6. Object Tracking <a class="anchor" id="tracking"></a>
 
 * [Object Tracking using OpenCV](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
@@ -104,7 +104,7 @@
 * [Tracking object orientation with image moments](http://raphael.candelier.fr/?blog=Image%20Moments)
 
 
-# 7. Processing 
+### 7. Processing 
 
 * [Основы пространственной и частотной обработки изображений](https://habr.com/ru/company/yandex/blog/254249/)
 
@@ -113,7 +113,7 @@
 
 
 
-# Лекции <a class="anchor" id="lectures"></a>
+### Лекции <a class="anchor" id="lectures"></a>
 
 * [UCF Computer Vision Video Lectures 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
 
@@ -144,7 +144,7 @@
 Серия уроков, автоматическое управление в GTA V по видеопотоку на opencv.
 
 
-# Usefull Tools <a class="anchor" id="tools"></a>
+### Usefull Tools <a class="anchor" id="tools"></a>
 
 * [OpenCV Python documentation](https://docs.opencv.org/3.0-beta/index.html)
 

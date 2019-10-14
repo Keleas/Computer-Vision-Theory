@@ -1,4 +1,4 @@
-# DL
+# Deep Learning
 
 #### Содержание
 * [Введение в DL](#overview)
@@ -6,7 +6,7 @@
 * [Полезные статьи](#papers)
 * [Usefull Tools](#tools)
 
-# Введение в DL <a class="anchor" id="overview"></a>
+### Введение в DL <a class="anchor" id="overview"></a>
 
 Вводная часть по нейронным сетям и их основным принципам работы.
 
@@ -21,7 +21,7 @@
 Обучение алгоритмом обратного распространения ошибки
 
 
-# Лекции <a class="anchor" id="lectures"></a>
+### Лекции <a class="anchor" id="lectures"></a>
 
 * [Deep Learning на пальцах — ODS](https://dlcourse.ai/)
 
@@ -68,7 +68,7 @@
 Серия уроков, автоматическое управление в GTA V по видеопотоку на нейронках.
 
 
-# Полезные статьи <a class="anchor" id="papers"></a>
+### Полезные статьи <a class="anchor" id="papers"></a>
 
 * [Python + OpenCV + Keras: делаем распознавалку текста за полчаса](https://habr.com/ru/post/466565/)
 
@@ -78,7 +78,7 @@
 
 * [Глубокое ранжирование для сравнения двух изображений](https://habr.com/ru/post/457928/)
 
-# Usefull Tools <a class="anchor" id="tools"></a>
+### Usefull Tools <a class="anchor" id="tools"></a>
 
 * [NVIDIA-Apex](https://github.com/NVIDIA/apex)
 
