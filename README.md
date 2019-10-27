@@ -12,10 +12,3 @@
 * [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 * [Deep Learning](https://github.com/Keleas/Computer-Vision-Theory/blob/master/dl.md)
 * [Graph-based deep learning](https://github.com/naganandy/graph-based-deep-learning-literature)
-
-
-#### По проектам [НИР]:
-
-* [Распознавание по дальностым портретам](https://github.com/Keleas/Computer-Vision-Theory/blob/master/projects/distance_portraits.md)
-* [Wafer Maps](https://github.com/Keleas/Computer-Vision-Theory/blob/master/projects/wafer_maps.md)
-* [ИПМТ](https://github.com/Keleas/Computer-Vision-Theory/blob/master/projects/ipmt.md)
