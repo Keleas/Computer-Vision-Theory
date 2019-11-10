@@ -31,6 +31,10 @@
 
 Физтеховские лекции по DL, второй семестр курса.
 
+* [Программирование нейросетей на Python](https://www.asozykin.ru/courses/nnpython)
+
+Курс от Андрея Созыкина посвящен практическому применению нейронных сетей с использованием готовых библиотек Keras и TensorFlow.
+
 * [Yandex School of Data Analysis](https://github.com/yandexdataschool)
 
 Несколько треков от Яндекса с ШАД: DL, CV, ML, NLP, RL.
