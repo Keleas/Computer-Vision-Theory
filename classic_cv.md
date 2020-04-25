@@ -1,14 +1,17 @@
 # Классика Computer Vision
 
-#### Содержание
+### Содержание
 * [Введение в CV](#overview)
 * [Работа с цветами](#colors)
 * [Features](#features)
 * [Object detection](#detection)
 * [Denoising](#denoising)
 * [Object Tracking](#tracking)
+* [Optical flow](#optical_flow)
 * [Лекции](#lectures)
 * [Usefull Tools](#tools)
+
+---
 
 ### 1. Введение в CV <a class="anchor" id="overview"></a>
 
@@ -20,8 +23,16 @@
 
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
+* Book – [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
+
+* Book – [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+
 
 ### 2. Работа с цветами <a class="anchor" id="colors"></a>
+
+* [Основы теории цвета. Система CIE XYZ](https://habr.com/ru/post/209738/)
+
+* [У цветового треугольника не два, а один угол](https://habr.com/ru/post/440550/)
 
 * [Changing the contrast and brightness of an image](https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html)
 
@@ -32,7 +43,6 @@
 * [Определение доминирующих цветов: Python и метод k-средних](https://habr.com/ru/post/156045/)
 
 * [OpenCV на python: поиск цветного объекта](https://robotclass.ru/tutorials/opencv-moments-color-object-search/)
-
 
 
 ### 3. Features <a class="anchor" id="features"></a>
@@ -57,7 +67,7 @@
 
 * [Shape Matching using Hu Moments](https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/)
 
- Paper — [Analysis of Hu's moment invariants on image scaling and rotation](https://www.researchgate.net/publication/224146066_Analysis_of_Hu's_moment_invariants_on_image_scaling_and_rotation)
+ * Paper — [Analysis of Hu's moment invariants on image scaling and rotation](https://www.researchgate.net/publication/224146066_Analysis_of_Hu's_moment_invariants_on_image_scaling_and_rotation)
 
 * [Image Moments](http://aishack.in/tutorials/image-moments/)
 
@@ -85,9 +95,12 @@
 
 ### 5. Denoising <a class="anchor" id="denoising"></a>
 
-* [Восстановление смазанных и расфокусированных изображений с помощью фильтра Винера.](https://habr.com/ru/post/424987/)
+* [Image Quality Assessment: A Survey](https://medium.com/@ocampor/advanced-methods-for-iqa-37581ec3c31f)
+
+* [Восстановление смазанных и расфокусированных изображений с помощью фильтра Винера](https://habr.com/ru/post/424987/)
 
 * [Восстановление расфокусированных и смазанных изображений](https://habr.com/ru/post/136853/)
+
 * [OpenCV - голографическое кодирование картинки](http://robocraft.ru/blog/computervision/549.html)
 
 * [Бинаризация изображений: алгоритм Брэдли](https://habr.com/ru/post/278435/)
@@ -104,13 +117,25 @@
 * [Tracking object orientation with image moments](http://raphael.candelier.fr/?blog=Image%20Moments)
 
 
-### 7. Processing 
-
-* [Основы пространственной и частотной обработки изображений](https://habr.com/ru/company/yandex/blog/254249/)
-
+### 7. Processing <a class="anchor" id="processing"></a>
 
 * [Преобразование Фурье. Линейная фильтрация в частотной области](http://wiki.technicalvision.ru/index.php/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A4%D1%83%D1%80%D1%8C%D0%B5._%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
 
+* [Digital Image Processing using Fourier Transform in Python](https://medium.com/@hicraigchen/digital-image-processing-using-fourier-transform-in-python-bcb49424fd82)
+
+### 8. Optical flow <a class="anchor" id="optical_flow"></a>
+
+* [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
+
+* [Dense optical flow with Python using OpenCV](https://medium.com/@igorirailean/dense-optical-flow-with-python-using-opencv-cb6d9b6abcaf)
+
+* [A Brief Review of FlowNet](https://towardsdatascience.com/a-brief-review-of-flownet-dca6bd574de0)
+
+* Paper – [An Efficient Optical Flow Based Motion Detection Method for Non-stationary Scenes](https://arxiv.org/abs/1811.08290)
+
+* Paper – [A Robust Visual System for Small Target Motion Detection Against Cluttered Moving Backgrounds](https://arxiv.org/abs/1904.04363)
+
+* Paper - [Optical Flow Based Real-time Moving Object Detection in Unconstrained Scenes](https://arxiv.org/abs/1807.04890)
 
 
 ### Лекции <a class="anchor" id="lectures"></a>
@@ -125,23 +150,12 @@
 
 * [Лекции по работе с OpenCV](https://www.lektorium.tv/speaker/2895)
 
-
 * [Алгоритмические основы растровой графики](https://www.intuit.ru/studies/professional_skill_improvements/1281/courses/163/info)
 
 Учебное пособие посвящено изложению основных принципов и алгоритмов, применяемых в растровой машинной графике.
 В курсе затрагивается широкий круг вопросов, включающий также проблемы цветопередачи и сжатия изображений.
 
-* [Введение в разработку мультимедийных приложений с использованием библиотек OpenCV](https://www.intuit.ru/studies/professional_skill_improvements/11289/courses/1105/info)
-
-Курс предусматривает ознакомление с основными задачами, моделями и методами создания мультимедийных приложений с акцентом на задачи компьютерного зрения и машинного обучения.
-Для этого авторами подготовлены подробные текстовые описания не только лекционной части, но и лабораторных работ, иллюстрирующих применение библиотек OpenCV и IPP для решения задач компьютерного зрения. Материалы лабораторного практикума включают коды программ, процесс пошаговой разработки которых описан в методических указаниях.
-
-
 * [Курс Олимпиадных школ МФТИ](https://github.com/ml-dafe/cv_mipt_olymp_school)
-
-* [Серия видео «Python Plays: Grand Theft Auto V» от sentdex 1](https://vk.com/proglib/computer_vision?w=wall-54530371_119956)
-
-Серия уроков, автоматическое управление в GTA V по видеопотоку на opencv.
 
 
 ### Usefull Tools <a class="anchor" id="tools"></a>
@@ -151,5 +165,3 @@
 * [Image manipulation and processing using Numpy and Scipy](http://scipy-lectures.org/advanced/image_processing/)
 
 * [Tutorials: Image processing algorithms](http://aishack.in/tutorials/)
-
-
