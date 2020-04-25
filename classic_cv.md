@@ -1,4 +1,4 @@
-# Классика Computer Vision
+# Computer Vision
 
 ### Содержание
 * [Введение в CV](#overview)
@@ -26,6 +26,10 @@
 * Book – [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
 * Book – [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+
+* [Подборка книг](https://github.com/manjunath5496/Computer-Vision-Books)
+
+* [Awesome Computer Vision github](https://github.com/jbhuang0604/awesome-computer-vision)
 
 
 ### 2. Работа с цветами <a class="anchor" id="colors"></a>
