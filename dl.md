@@ -20,6 +20,8 @@
 
 Обучение алгоритмом обратного распространения ошибки
 
+* [Neural Networks from Scratch](https://morioh.com/p/fb1b9f5a52bc)
+
 
 ### Лекции <a class="anchor" id="lectures"></a>
 
@@ -78,6 +80,12 @@
 
 * [Глубокое ранжирование для сравнения двух изображений](https://habr.com/ru/post/457928/)
 
+* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+
+* [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955v1)
+
+* [mAP (mean Average Precision) for Object Detection](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173)
+
 ### Usefull Tools <a class="anchor" id="tools"></a>
 
 * [NVIDIA-Apex](https://github.com/NVIDIA/apex)
@@ -86,4 +94,11 @@
 
 * [Albumentations](https://github.com/albu/albumentations)
 
+* Инструмент разметки - [supervisely](https://supervise.ly/)
+
 Быстрая библиотека аугментации изображений и простая в использовании оболочка для других библиотек.
+
+* Введение в pytorch
+	* [CISS2 intro_pytorch](https://github.com/text-machine-lab/ciss2_materials/blob/master/tutorials/pytorch_track/tutorial1_intro_pytorch.ipynb) 
+	* [Pytorch Tutorial for Deep Learning Lovers](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers) 
+	* [Practical Deep Learning Using PyTorch](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
