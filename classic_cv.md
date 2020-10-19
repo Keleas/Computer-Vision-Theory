@@ -19,9 +19,9 @@
 
 * [Постановка задачи компьютерного зрения](https://habr.com/ru/post/274725/)
 
-* [Пару слов о распознавании образов](https://habr.com/ru/post/208090/)
+* [Самая сложная задача в Computer Vision](https://habr.com/ru/company/recognitor/blog/505694/)
 
-* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+* [Пару слов о распознавании образов](https://habr.com/ru/post/208090/)
 
 * Book – [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 
@@ -36,7 +36,7 @@
 
 * [Основы теории цвета. Система CIE XYZ](https://habr.com/ru/post/209738/)
 
-* [У цветового треугольника не два, а один угол](https://habr.com/ru/post/440550/)
+* [Лекция - У цветового треугольника не два, а один угол](https://habr.com/ru/post/440550/)
 
 * [Changing the contrast and brightness of an image](https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html)
 
@@ -47,6 +47,8 @@
 * [Определение доминирующих цветов: Python и метод k-средних](https://habr.com/ru/post/156045/)
 
 * [OpenCV на python: поиск цветного объекта](https://robotclass.ru/tutorials/opencv-moments-color-object-search/)
+
+* [Multiscale Retinex](https://www.researchgate.net/publication/272643640_Multiscale_Retinex) - алгоритм коррекции цвета
 
 
 ### 3. Features <a class="anchor" id="features"></a>
@@ -85,10 +87,10 @@
 
 * [A single scale retinex based method for palm vein extraction](https://arxiv.org/abs/1605.08154)
 
+* Дескриптор текстур [BRINT](https://ieeexplore.ieee.org/document/6819021)
+
 
 ### 4. Object detection <a class="anchor" id="detection"></a>
-
-* [Пару слов о распознавании образов](https://habr.com/ru/post/208090/)
 
 * [Обучение машины — забавная штука: современное распознавание лиц с глубинным обучением](https://habr.com/ru/post/306568/)
 
@@ -127,6 +129,9 @@
 
 * [Digital Image Processing using Fourier Transform in Python](https://medium.com/@hicraigchen/digital-image-processing-using-fourier-transform-in-python-bcb49424fd82)
 
+* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+
 ### 8. Optical flow <a class="anchor" id="optical_flow"></a>
 
 * [Introduction to Motion Estimation with Optical Flow](https://nanonets.com/blog/optical-flow/)
@@ -144,6 +149,12 @@
 
 ### Лекции <a class="anchor" id="lectures"></a>
 
+* [Курс анализа изображений от Computer Science Center](https://habr.com/ru/company/yandex/blog/258573/)
+
+* [CS131 Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
+
+* Курс лекций [The Ancient Secrets of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) от создателей YOLO
+
 * [UCF Computer Vision Video Lectures 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
 
 Курс из 20 лекций по 45-90 минут. Академично и глубоко рассматриваются фундаментальные матрицы изображений, оптический поток, масштабно-инвариантное преобразование признаков, различные алгоритмы и методы работы с изображением
@@ -159,13 +170,13 @@
 Учебное пособие посвящено изложению основных принципов и алгоритмов, применяемых в растровой машинной графике.
 В курсе затрагивается широкий круг вопросов, включающий также проблемы цветопередачи и сжатия изображений.
 
-* [Курс Олимпиадных школ МФТИ](https://github.com/ml-dafe/cv_mipt_olymp_school)
-
 
 ### Usefull Tools <a class="anchor" id="tools"></a>
 
-* [OpenCV Python documentation](https://docs.opencv.org/3.0-beta/index.html)
+* [OpenCV Python documentation](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 
 * [Image manipulation and processing using Numpy and Scipy](http://scipy-lectures.org/advanced/image_processing/)
 
 * [Tutorials: Image processing algorithms](http://aishack.in/tutorials/)
+
+* [Scikit-Image tutorials](https://github.com/scikit-image/skimage-tutorials)

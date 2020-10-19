@@ -1,6 +1,6 @@
 # Modern Computer Vision
 
-#### Содержание
+## Содержание
 * [Введение в DL](#overview)
 * [Лекции](#lectures)
 * [Полезные статьи](#papers)
@@ -29,9 +29,11 @@
 
 ### Лекции <a class="anchor" id="lectures"></a>
 
+* [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+
 * [Deep Learning на пальцах — ODS](https://dlcourse.ai/)
 
-Курс от ODS по DL, охватывающий основные моменты 
+Курс от ODS по DL, охватывающий основные моменты и направления DL
 
 * [Прикладное машинное обучение](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
 
@@ -51,28 +53,7 @@
 
 * [Школа глубокого обучения — ФПМИ МФТИ](https://www.dlschool.org/)
 
-Курс от физтехов для школьников по DL. Начинают с азов питона, машинки и плавно переходят на DL. В качестве основного направления идет NLP, все остальное только обзорно.
-
-* [Программирование нейросетей на Python](https://www.asozykin.ru/courses/nnpython)
-
-Курс посвящен практическому применению нейронных сетей с использованием готовых библиотек Keras и TensorFlow. Вы научитесь применять эти библиотеки для решения задач анализа изображений и текстов.
-
-* [Открытый курс машинного обучения — ODS](https://habr.com/ru/company/ods/blog/322626/)
-
-Классика машинки от ODS.
-
-* [Машинное обучение](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
-
-Физтеховские лекции по ML, первый семестр курса.
-
-* [Анализ изображений и видео. Часть 2](https://vk.com/proglib/computer_vision?w=wall-54530371_199134)
-
-Вторая часть курса
-
-* [Серия видео «Python Plays: Grand Theft Auto V» от sentdex 2](https://vk.com/proglib/computer_vision?w=wall-54530371_137309)
-
-Серия уроков, автоматическое управление в GTA V по видеопотоку на нейронках.
-
+Курс от физтехов по DL. Начинают с азов питона, машинки и плавно переходят на DL. В качестве основного направления идет NLP, все остальное только обзорно.
 
 ### Полезные статьи <a class="anchor" id="papers"></a>
 
@@ -92,6 +73,12 @@
 
 * Подборка – [Graph-based deep learning github](https://github.com/naganandy/graph-based-deep-learning-literature)
 
+* Объяснение про [Focal Loss](https://medium.com/visionwizard/understanding-focal-loss-a-quick-read-b914422913e7)
+
+* [Приминение Focal Loss в обучении](https://leimao.github.io/blog/Focal-Loss-Explained/)
+
+
+
 ### Usefull Tools <a class="anchor" id="tools"></a>
 
 * [NVIDIA-Apex](https://github.com/NVIDIA/apex)
@@ -104,7 +91,12 @@
 
 Быстрая библиотека аугментации изображений и простая в использовании оболочка для других библиотек.
 
-* Введение в pytorch
+* __Введение в PyTorch:__
+	* [Level 1 - Official PyTorch tutorials](https://pytorch.org/tutorials/)
+	* [Level 2 - Official PyTorch tutorials](https://github.com/yunjey/pytorch-tutorial)
 	* [CISS2 intro_pytorch](https://github.com/text-machine-lab/ciss2_materials/blob/master/tutorials/pytorch_track/tutorial1_intro_pytorch.ipynb) 
 	* [Pytorch Tutorial for Deep Learning Lovers](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers) 
 	* [Practical Deep Learning Using PyTorch](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
+	* [Efficient PyTorch — Supercharging Training Pipeline](https://towardsdatascience.com/efficient-pytorch-supercharging-training-pipeline-19a26265adae) - о построении пайплайна на PyTorch
+	* [Efficient PyTorch — Eliminating Bottlenecks](https://towardsdatascience.com/efficient-pytorch-part-1-fe40ed5db76c) - практические советы по PyTorch
+	* [PyTorchChallenge](https://github.com/DBusAI/PyTorchChallenge) - подборка задач по освоению пакета PyTorch
